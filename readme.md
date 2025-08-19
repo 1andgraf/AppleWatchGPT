@@ -26,7 +26,7 @@ A lightweight Apple Watch app that allows you to chat with OpenAI’s ChatGPT di
 1. Clone this repository:
 
 ```bash
-git clone https://https://github.com/1andgraf/AppleWatchGPT.git
+git clone https://github.com/1andgraf/AppleWatchGPT.git
 ```
 
 2. Open the project in Xcode.
@@ -42,7 +42,7 @@ request.addValue("Bearer YOUR_OPENAI_API_KEY", forHTTPHeaderField: "Authorizatio
 
 ## Important mention
 
-- It equires an internet connection
+- It requires an internet connection
 - It uses OpenAI API, so usage counts against your API quota
 - Responses are limited to 150 tokens, but it is configurable in code (max_tokens)
 - You can change the ChatGPT model in `ContentView.swift`
