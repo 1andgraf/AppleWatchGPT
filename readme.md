@@ -1,13 +1,6 @@
 # Apple Watch ChatGPT Chat App
 
-A lightweight Apple Watch app that allows you to chat with OpenAI’s ChatGPT directly from your watch. This app uses the `gpt-3.5-turbo` model via the OpenAI API.
-
----
-
-## Features
-
-- Send text messages to ChatGPT and view its responses from your Apple Watch
-- Maintains the last 10 messages (for a compact chat view)
+A lightweight Apple Watch app that allows you to chat with OpenAI’s ChatGPT directly from your watch. This app uses the `gpt-3.5-turbo` model via the OpenAI API. Send text messages to ChatGPT and view its responses from your Apple Watch
 
 ---
 
@@ -53,3 +46,4 @@ request.addValue("Bearer YOUR_OPENAI_API_KEY", forHTTPHeaderField: "Authorizatio
 - It uses OpenAI API, so usage counts against your API quota
 - Responses are limited to 150 tokens, but it is configurable in code (max_tokens)
 - You can change the ChatGPT model in `ContentView.swift`
+- Maintains only the last 10 messages for a compact chat view
