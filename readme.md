@@ -14,8 +14,8 @@ A lightweight Apple Watch app that allows you to chat with OpenAI’s ChatGPT di
 ## Screenshots
 
 
-<img width="939" height="1017" alt="Screenshot 2025-08-19 at 11 55 33" src="https://github.com/user-attachments/assets/9696cd6b-1ef7-4d86-8df3-c6aad03a969d" />
-<img width="915" height="1008" alt="Screenshot 2025-08-19 at 11 54 54" src="https://github.com/user-attachments/assets/09e40f8e-954c-423f-88e4-3fe27dd96a2d" />
+<img width="470" height="505" alt="Screenshot 2025-08-19 at 11 55 33" src="https://github.com/user-attachments/assets/9696cd6b-1ef7-4d86-8df3-c6aad03a969d" />
+<img width="470" height="505" alt="Screenshot 2025-08-19 at 11 54 54" src="https://github.com/user-attachments/assets/09e40f8e-954c-423f-88e4-3fe27dd96a2d" />
 
 
 ---
